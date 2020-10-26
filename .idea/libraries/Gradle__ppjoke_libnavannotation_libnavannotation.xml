@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ppjoke.libnavannotation.libnavannotation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libnavannotation/build/libs/libnavannotation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

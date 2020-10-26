@@ -1,0 +1,12 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/javac/debug/classes/
+/libcommon/build/
+/libcommon/build/intermediates/javac/debug/classes/
+/libnavannotation/build/
+/libnavannotation/build/classes/java/main/
+/libnavcompiler/build/
+/libnavcompiler/build/classes/java/main/
+/libnetwork/build/
+/libnetwork/build/intermediates/javac/debug/classes/

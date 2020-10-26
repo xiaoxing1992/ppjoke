@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ppjoke.libnavcompiler.libnavcompiler">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libnavcompiler/build/libs/libnavcompiler.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
